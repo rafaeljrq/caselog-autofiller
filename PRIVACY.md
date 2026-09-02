@@ -24,10 +24,12 @@ WHAT IS STORED, AND WHERE
   anesthesia type, and airway technique)
 - Your program configuration (site list, attending roster, vocabulary,
   preferences)
-
-The original text of any note you paste is never stored.
-
-You can delete all stored data at any time by removing the extension from your
+- The original text of any note you paste is never stored.
+- An advanced vocabulary option lets a user map a label of their choosing to the
+Case ID field. This is opt in, the extension warns against using it for
+identifiers, and any value it captures is used only during the session and is
+not written to storage.
+- You can delete all stored data at any time by removing the extension from your
 browser, or by clearing the queue and resetting setup within the extension.
 
 YOUR RESPONSIBILITY
